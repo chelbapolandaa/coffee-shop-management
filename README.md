@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,27 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Coffee Shop Management (Laravel)
+
+Project ini adalah **website cafe online** lengkap dengan:
+
+- Menu publik
+- Promo
+- Keranjang / checkout online
+- Admin panel untuk:
+  - Manajemen menu
+  - Pesanan
+  - Promo
+  - Struktur organisasi
+  - Laporan
+- Database dummy untuk struktur organisasi sudah tersedia
+
+## Cara menjalankan project
+
+1. Clone repo:
+
+```bash
+git clone https://github.com/USERNAME/REPO-NAME.git
+cd REPO-NAME
+>>>>>>> fff752d8127933c9a408c7c8c70a8a0fd81311c5
